@@ -1,0 +1,132 @@
+	body { 
+		background-color: #765A8F;
+		font-family:MV Boli;}
+	
+	h1 {
+		color:#FFF980;
+		text-align:center;
+		background-color: #170323;
+		font-family:forte;}
+	
+	h2 {
+		text-align:center;
+		color:#f5f7bb;}
+	h3 {
+		text-align:center;
+		color:#f5f7bb;}
+		
+	
+	p { color:#f5f7bb;
+	text-align:left;}
+	
+	p.r { color:#f5f7bb;
+	text-align:left;
+	float:right;}
+
+	h2.left { color:#f5f7bb;
+		text-align:left }
+
+	
+	ol	{
+		background-color: #XXXXXX;
+		border: 1px solid #XXXXXX;
+			text-align:left;}
+		
+		
+		
+		
+		
+		ul {
+			color:#f5f7bb;
+		background-color: #XXXXXX;
+		border: 1px solid #XXXXXX;
+		text-align:left;}
+		
+			ol {
+			color:#f5f7bb;
+		background-color: #XXXXXX;
+		border: 1px solid #XXXXXX;
+		text-align:left;}
+	
+	address {
+		color:#feffef;
+		text-align:center;
+		font-size: 150%;}
+	
+	#container {
+		width:1000px;
+		margin-left:auto;
+		margin-right:auto;
+		border: 10px solid #20062b;
+			background-color: #3d374a;}
+		
+		
+				#top {
+		width:1000px;
+		float:none;
+		border: 10px solid #20062b;
+		background-color: #32253D;
+		text-align:center;	
+		margin-right:50px;
+		  padding: 0px;}
+				
+						#bottom {
+		width:700px;
+		float:none;
+		clear:both;
+		border: 10px solid #20062b;
+		background-color: #32253D;
+		text-align:center;	}
+							
+
+		
+		
+a:link {
+    color:#ffffff;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: #E7E792;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: #FFFF87;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: #eeff00;
+    background-color: transparent;
+    text-decoration: underline;
+}		
+			
+	table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #170323;
+    text-align: left;
+    padding: 8px;
+}
+
+tr{
+	background-color:#7A5C95;
+	
+}
+tr:nth-child(even) {
+    background-color: #7A5C95		;
+}
+	tr.error {
+    background-color: #7A5C95;
+}
+
+
+
+
+	
+	
