@@ -1,11 +1,11 @@
 	body { 
-		background-color: #765A8F;
+		background-color:#ffebce;
 		font-family:MV Boli;}
 	
 	h1 {
-		color:#FFF980;
+		color:#c3edeb;
 		text-align:center;
-		background-color: #170323;
+		background-color: #62211b;
 		font-family:forte;}
 	
 	h2 {
@@ -58,14 +58,14 @@
 		margin-left:auto;
 		margin-right:auto;
 		border: 10px solid #20062b;
-			background-color: #3d374a;}
+			background-color: #fdd08f;}
 		
 		
 				#top {
 		width:1000px;
 		float:none;
 		border: 10px solid #20062b;
-		background-color: #32253D;
+		background-color: #c3edeb;
 		text-align:center;	
 		margin-right:50px;
 		  padding: 0px;}
